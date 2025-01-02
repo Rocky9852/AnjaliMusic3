@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SukoonUpdates")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/SukoonChats")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Stylish_Name_ProfileDp")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/DTM_NETWORK")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -81,12 +81,12 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://i.ibb.co/ydLZ5RN/IMG-20240316-031033-252.jpg"
+    "START_IMG_URL", "https://graph.org/file/07b07fe0014a2872d6f31-e42fc799831a1543e4.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://i.ibb.co/ydLZ5RN/IMG-20240316-031033-252.jpg"
 )
-PLAYLIST_IMG_URL = "https://i.ibb.co/ydLZ5RN/IMG-20240316-031033-252.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/07b07fe0014a2872d6f31-e42fc799831a1543e4.jpg"
 STATS_IMG_URL = "https://i.ibb.co/ydLZ5RN/IMG-20240316-031033-252.jpg"
 TELEGRAM_AUDIO_URL = "https://i.ibb.co/ydLZ5RN/IMG-20240316-031033-252.jpg"
 TELEGRAM_VIDEO_URL = "https://i.ibb.co/ydLZ5RN/IMG-20240316-031033-252.jpg"
